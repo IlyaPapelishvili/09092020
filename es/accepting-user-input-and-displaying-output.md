@@ -31,6 +31,9 @@ In a non-AMP page, we might reach for a basic HTML form element to collect our u
 In this section, we’ll explore what a traditional website form is, how AMP forms differ from traditional forms, and how to handle the response from the server when submitting AMP forms.
 
 ## Introduction To Forms
+выцапфувкап
+кап
+кп
 
 [Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form) are used to send data from a website to a server. They contain one or more inputs into which users can enter information. Form inputs include text fields, combo boxes, checkboxes, radio buttons, and buttons. Once a user submits a form, all of the data they entered is sent to the server for processing, and a new page is loaded from the server, causing a full page refresh.
 
