@@ -7,7 +7,7 @@ leveled: true
 [filter level="beginner"]
 
 ## Building a Newsletter Subscription Form
-
+ftyukifykify7ki
 Studies show that every dollar spent on email marketing corresponds to several dollars more in sales. In order to keep our brand in our customers’ minds, we want to send out a regular newsletter with information about our company and deals for discounted cheese bikes and accessories. To build up our mailing list, we have to add a newsletter subscription form. Our product manager wants the form to be as follows:
 
 -
